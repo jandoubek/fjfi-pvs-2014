@@ -40,7 +40,7 @@ Vít Hanousek
  - podnikatel, lakrosák
  
 Karel Šimánek
- - 
+ - C++, Melnik, naposledni chvili psaci
  - Projekťák v IBM pár let, píše články o vojenských konfliktech v Egyptě
 
 
