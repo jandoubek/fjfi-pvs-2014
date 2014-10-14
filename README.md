@@ -21,7 +21,7 @@ Hana Wurzelova
 
 Martin Flusser
  - Cpp, Qt, brusle a lyže. A také instruktáže
- - uběhl 10km za 2:20:59, sjezdař
+ - uběhl 20km za 2:20:59, 10km za 0:52:07, sjezdař
  
 Zuzana Krbcová
  - ASI, Sarumanovo zobrazení vícekritického plundrování
