@@ -32,7 +32,7 @@ Jiří Kafka
  - 
  
 Jakub Starý
- - Freelance web developer, Commerzbang === a taky nic moc,
+ - Freelance web developer, Commerzbank === a taky nic moc,
  - jde hlavou proti zdi, lui-magazine ... online mag pro čtyřprocentní power
  
 Vít Hanousek
